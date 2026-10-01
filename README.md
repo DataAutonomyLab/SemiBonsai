@@ -2,7 +2,7 @@
 
 Accepted at **IEEE ICDE 2027**.
 
-This repository provides the implementation and datasets for **SemiBonsai**, a numerical question-answering framework for semi-structured tables. SemiBonsai organizes the workflow into three principal stages: table structuring, uncertainty resolution, and query planning.
+This repository provides the implementation and datasets for **SemiBonsai**, a numerical question-answering framework for semi-structured tables.
 
 ## Datasets
 
@@ -18,11 +18,11 @@ Each benchmark directory contains the question-answer records and source tables 
 
 ## Baselines
 
-The `codes/baselines/` directory contains a direct GPT baseline that answers each question from the original table without applying the SemiBonsai structuring, rewriting, or planning stages.
+The `codes/baselines/` directory contains a direct GPT prompting baseline.
 
 ```bash
 cd codes/baselines
-python gpt.py --dataset hitab_num --model gpt-4.1
+python gpt.py --dataset hitab_num --model gpt-5
 ```
 
 Baseline predictions are written to `result/<dataset>/baselines/<model>/predictions.jsonl`. Published performance summaries are not included because they are generated experimental results rather than source artifacts.
@@ -31,12 +31,12 @@ Baseline predictions are written to `result/<dataset>/baselines/<model>/predicti
 
 1. `codes/table_structurer/vlm_identification.py`: Identifies hierarchical table structure and subtable boundaries using a vision-language model.
 2. `codes/table_structurer/convert_table_structural_model.py`: Converts identified table structure into the layered structural representation used by downstream modules.
-3. `codes/uncertainty_resolver/uncertainty_detection.py`: Detects under-specified expressions and associates them with candidate table headers.
+3. `codes/uncertainty_resolver/uncertainty_detection.py`: Detects under-specified phrases and associates them with candidate table headers.
 4. `codes/uncertainty_resolver/pruning.py`: Prunes incompatible grounding candidates using the layered table structure.
 5. `codes/uncertainty_resolver/question_rewriting.py`: Produces grounded question rewrites for ambiguous questions.
-6. `codes/reasoner/query_plan.py`: Performs decomposition, schema linking, query planning, execution, and answer selection.
+6. `codes/reasoner/query_plan.py`: Performs query planning and program execution.
 7. `codes/reasoner/operation.py`: Implements numerical and table operations used by generated query plans.
-8. `codes/router/llm_routing.py`: Provides the optional routing logic for selecting an answering path.
+8. `codes/router/llm_routing.py`: Provides the optional LLM routing logic.
 9. `codes/baselines/gpt.py`: Implements the direct GPT baseline over the original tables.
 10. `codes/utils/evaluate_utils.py`: Evaluates generated answers against benchmark labels.
 11. `codes/utils/`: Contains shared API, table-processing, prompt, and data utilities.
@@ -52,8 +52,6 @@ Baseline predictions are written to `result/<dataset>/baselines/<model>/predicti
 - **macOS or Linux**
 - An **OpenAI API key**, or access to an OpenAI-compatible endpoint
 - `wkhtmltoimage` when HTML-to-image conversion is required by `imgkit`
-
-CUDA and `cupy-cuda12x` are not required for the core SemiBonsai pipeline.
 
 ### Setup
 
@@ -203,12 +201,6 @@ python evaluate_utils.py \
 ## Output
 
 All generated table metadata, rewrites, query plans, predictions, and evaluation files are written beneath `result/`. This directory is ignored by Git so that the repository contains only source code, configuration, and benchmark data.
-
-Model-based stages may produce different outputs across models or repeated runs. For reproducibility, report the exact model identifiers, command-line arguments, and service configuration used for each experiment.
-
-## Security
-
-Do not commit API keys, `.env` files, personal filesystem paths, generated prompts, logs, or result files. If a credential has previously been exposed, revoke it and issue a replacement before running the code.
 
 ## Contact
 
