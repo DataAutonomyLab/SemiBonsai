@@ -1,0 +1,720 @@
+dataset_name,question,operands,operators,underspecific_ratio,ground_schemas
+hitab_num,how many percentage points of total r&d did large companies (those with 250 or more employees) account for?,3,3,0.0,6
+hitab_num,how many percentage points of total r&d did micro and small companies (5-49 employees) account for?,2,3,1.0,1
+hitab_num,how many percentage points did medium-sized companies (50-249 employees) account for?,2,3,1.0,2
+hitab_num,how many percent of top six primarily self-employed immigrant-owned industries can accounted for total share of industries?,2,2,0.5,27
+hitab_num,what is the range of the proportion of enterprises that stay in their 2008 size class?,2,3,0.0,0
+hitab_num,how many percentage points did six federal agencies account of all s&e support to higher education institutions in fy 2017?,3,4,1.0,1
+hitab_num,"after adjustment for inflation, how many million dollars did federal s&e obligations to academic institutions decline from fy 2012 to fy 2013?",2,2,1.0,3
+hitab_num,"after adjustment for inflation, how many percent did federal s&e obligations to academic institutions decline from fy 2012 to fy 2013?",2,3,1.0,3
+hitab_num,"after adjustment for inflation, how many million dollars did federal s&e obligations to academic institutions increase between fy 2013 and fy 2014?",2,4,1.0,3
+hitab_num,"after adjustment for inflation, how many percent did federal s&e obligations to academic institutions increase between fy 2013 and fy 2014?",2,4,1.0,3
+hitab_num,"what is the percentage of all cases each year, on average - present a similar earnings situation in both the t1 family file (t1ff) and the employer file (t4) ?",2,2,1.0,1
+hitab_num,what is the percentage of cases on average in each year show earnings in one file without showing earnings in the other?,2,2,1.0,1
+hitab_num,what is the percentage on average of cases in each year show earnings in both the t1ff and t4?,2,2,1.0,1
+hitab_num,what percentage of respondents on average in each year had $0 earnings in the t1ff and no t4 information?,2,2,1.0,2
+hitab_num,what is the times that women are more likely to have ms than men in 2010/2011?,2,3,1.0,6
+hitab_num,what is the number of women reported ms for every man with the condition in 2010/2011?,2,3,1.0,6
+hitab_num,"what is the percentage of people reported that ms affected their lives moderately, quite a bit, or extremely?",2,3,0.0,12
+hitab_num,what is the percentage of people with ms experienced difficulty getting a good night's sleep?,2,3,1.0,3
+hitab_num,what is the percentage of people with ms reported that ms compromised educational opportunities?,2,4,1.0,3
+hitab_num,what is the percentage of people with ms experienced at least some limitations in job opportunities?,2,3,1.0,3
+hitab_num,how many percentage points did the 20 hbcus receiving the largest share of federal s&e support account of all s&e support obligations to all hbcus?,2,3,1.0,1
+hitab_num,how many percentage points did 20 hbcus receive of all federal obligations for r&d to all hbcus?,2,4,0.33333333333333337,5
+hitab_num,what is the percentage of cases included at least one offence against the administration of justice among the charges in 2013/2014?,2,3,0.5,15
+hitab_num,what was the number that total general government final consumption expenditure was revised down per year between 2010 and 2014?,2,5,1.0,2
+hitab_num,how many percentage points did gdp of sport industries in new brunswick decrease in 2014?,2,2,0.5,3
+hitab_num,how many percentage points did gdp of sport industries in new brunswick receded in 2013?,2,3,0.5,3
+hitab_num,how much perenctage point has toronto fell when it comes to immigrants intended landing destination?,2,4,0.0,1
+hitab_num,how much perenctage point has saskatchewan rose when it comes to immigrants intended landing destination?,2,3,0.0,1
+hitab_num,how much perenctage point has atlantic provinces rose when it comes to immigrants intended landing destination?,2,3,1.0,1
+hitab_num,how much perenctage point has alberta rose when it comes to immigrants intended landing destination?,2,3,1.0,1
+hitab_num,how much perenctage point has manitoba rose when it comes to immigrants intended landing destination?,2,3,0.0,0
+hitab_num,how many percentage points did gdp of sport industries in canada decrease in 2014?,2,2,0.5,3
+hitab_num,"in 2016, how many percentage points did domestically performed business r&d account of national total?",2,4,0.0,10
+hitab_num,"by household size,which kind of people were more likely to report excellent or very good mental health?",2,4,1.0,10
+hitab_num,what was the times the rate of sexual assault among canadians who reported drug use in the past month higher than among those who did not?,2,3,0.33333333333333337,9
+hitab_num,what was the times the rate of sexual assault among canadians who reported binge drinking in the past month higher than among those who did not?,2,3,0.0,3
+hitab_num,what was the times the rate of sexual assault among women who reported binge drinking in the past month higher than among those who did not?,2,4,0.0,4
+hitab_num,what was the times the rate of sexual assault of canadians who stated that they go out in the evenings 21 times or more per month more than those who stated that they go out 10 times or fewer?,2,3,0.75,6
+hitab_num,"what was the percrntage a bachelor's degree holder with a debt of $25,000 or more at graduation would have repaid less of their debt than their counterpart with a debt of less than $5,000?",2,3,0.0,3
+hitab_num,"over the period 2000 to 2016, how many percentage points of capital goods exports to the united states has declined?",2,3,0.6666666666666667,14
+hitab_num,"over the period 2000 to 2016, how many percentage points of capital goods exports to the united kingdom has declined?",2,3,0.6666666666666667,14
+hitab_num,"over the period 2000 to 2016, how many percentage points of capital goods exports to germany has declined?",2,4,0.6666666666666667,14
+hitab_num,"aamong individuals who were married or in common-law relationships in the past year but become single, separated or divorced,how many times of delayed tax filing might occur?",2,4,1.0,3
+hitab_num,"of the $18.9 billion in federally funded r&d spending, how many percent was funded by the department of energy?",2,3,0.5,2
+hitab_num,how many percent was funded by the department of defense?,2,3,0.0,1
+hitab_num,how many percent did the bulk of the spending on these awards occurred in fys 2010 and 2011?,2,4,1.0,1
+hitab_num,"the employment rate for aboriginal people living on reserve was 47.3% in 2011, compared to 71.1% for their counterparts living off-reserve-a difference of 23.8 percentage points.",2,3,0.25,12
+hitab_num,"for non-aboriginal people, the employment rate was 68.8% for those living on reserve and 82.1% for those living off-reserve, what was the difference of them?",2,3,0.25,9
+hitab_num,"among those living off-reserve, what was the difference between the employment rate for aboriginal people and the employment rate for non-aboriginal people?",2,3,0.5,13
+hitab_num,what was the growth in u.s. total r&d averaged annually over the 7-year period 2008-15?,2,4,0.5,3
+hitab_num,how many percent of the average pace of u.s. gross domestic product (gdp) over the 7-year period 2008-15?,2,3,0.0,4
+hitab_num,"how many percent did five state governments (california, new york, texas, florida, and ohio) account for of all state government r&d in fy 2016?",2,4,1.0,2
+hitab_num,"how many percent did five states accounte of the $636 million of intramural r&d performed by state agencies in fy 2016: new york, california, florida, south carolina, and connecticut?",2,4,1.0,4
+hitab_num,"how many percent did five states account of the $1.7 billion in fy 2016 state government funding for extramural r&d performance: california, texas, new york, florida, and ohio?",2,4,1.0,4
+hitab_num,"35 states reported expenditures for healthrelated r&d in fy 2016, how many percent of all state government agency expenditures on health-related r&d was reported by agencies in five states: new york, texas , california, florida, and pennsylvania?",2,4,0.0,1
+hitab_num,"in 2014, researchers in china were the world's largest producers of s&e publications of any single country, how many percent did researchers produce of the 2.3 million world total?",2,2,0.0,0
+hitab_num,what was the proportion of homelessness support sector workers in british columbia and ontario (combined)?,2,3,0.0,4
+hitab_num,what was the rate of handguns used in firearm-related homicides in 2014?,2,3,0.5,6
+hitab_num,"for employer businesses, how many times did non-indigenous csds have as many businesses per community as first nations?",2,4,0.33333333333333337,10
+hitab_num,"for employer businesses, how many times did non-indigenous csds have as many businesses per community as inuit csds?",2,3,0.33333333333333337,10
+hitab_num,"at the all industries level, how many times did non-indigenous csds have as many non-employer businesses as first nations and inuit csds?",2,3,0.33333333333333337,6
+hitab_num,"of the $73 million in r&d u.s. companies performed outside the united states, how many million dollars could be attributed to a specific foreign location?",3,3,0.0,0
+hitab_num,how many percent did current-dollar federal obligations for research and development and r&d plant decrease from fy 2014 to fy 2015?,2,4,1.0,6
+hitab_num,how many percent did r&d plant funding increase substantially by?,2,3,0.0,2
+hitab_num,"in fy 2015, how many percent did research account of all federal obligations for r&d and r&d plant?",2,3,0.6666666666666667,4
+hitab_num,how many million dollars did total federal funding for research increase by in fy 2015?,2,2,0.0,1
+hitab_num,"the three largest cmas, what is the percentage of the decrease of toronto which accounted for 48% of all robberies reported by police in 2015?",2,3,0.0,1
+hitab_num,"in contrast, saguenay, having reported what percentage of decreases in robbery in 2015?",2,2,0.5,6
+hitab_num,"in contrast, quebec, having reported what percentage of decreases in robbery in 2015?",2,3,0.5,6
+hitab_num,"much of the increase in the rate of breaking and entering at the national level between 2014 and 2015 can be accounted for somewhat mitigated by a drop in the rate of break-ins in montreal, what is the percentage of this drop?",2,3,0.0,3
+hitab_num,"much of the increase in the rate of breaking and entering at the national level between 2014 and 2015 can be accounted for somewhat mitigated by a drop in the rate of break-ins in vancouver, what is the percentage of this drop?",2,3,0.0,3
+hitab_num,what is the percentage of large decline in rate of breaking and entering at the national level was also reported in london in 2015?,2,3,0.5,6
+hitab_num,what is the percentage of large decline in rate of breaking and entering at the national level was also reported in gatineau in 2015?,2,4,0.5,6
+hitab_num,what is the percentage of large decline in rate of breaking and entering at the national level was also reported in trois-rivieres in 2015?,2,3,0.5,6
+hitab_num,"in contrast, what is the percentage of sherbrooke reported relatively large declines of motor vehicle theft in 2015?",2,2,1.0,5
+hitab_num,"at the all industries level, how many times did employer businesses in non-indigenous conmunities cumulatively earn per resident more than first nations employers?",2,4,0.25,11
+hitab_num,"at the all industries level, how many times did employer businesses in non-indigenous conmunities cumulatively earn per resident more than inuit csd employers?",2,4,0.25,11
+hitab_num,what percent of new temporary foreign workers were aged 18 to 34 in the 1990s and 2000s.,2,4,1.0,2
+hitab_num,"comparing the 2000-to-2004 arrival cohort with the 2010-to-2014 cohort, what percent of the share of new temporary foreign workers from north america has declined?",2,4,0.5,3
+hitab_num,what is the range of the shares of temporary foreign workers with lower skills?,2,4,1.0,1
+hitab_num,what percent of homicides perpetrated by a female accused involved a victim who was either her spouse or dating partner?,2,5,0.33333333333333337,4
+hitab_num,"what percent of homicides among female accused involved a victim who was either her spouse, parent, child or other family member?",2,4,0.0,6
+hitab_num,what percent of homicides involving a male accused were family homicides?,2,3,0.5,5
+hitab_num,"how many percentage points did women live in families either as part of a couple, as a lone parent or as a child?",2,4,0.75,6
+hitab_num,"how many percentage points did men live in families either as part of a couple, as a lone parent or as a child?",2,5,0.75,11
+hitab_num,how many percent of alberta which had the largest decrease among the provinces?,2,4,0.0,1
+hitab_num,how many percent of northwest territories which had the largest decrease among the territories?,2,4,0.0,1
+hitab_num,"the incarceration rate decreased for 9 of the 12 reporting jurisdictions, how many percent of yukon which reported the largest decrease?",2,3,0.0,1
+hitab_num,"in 2016/2017, there were 5,937 youth that began a period of supervision in correctional services in the eight reporting jurisdictions, how many percet of decrease from the previous year?",2,5,1.0,6
+hitab_num,"in 2016/2017, there were 5,937 youth that began a period of supervision in correctional services in the eight reporting jurisdictions, how many percent of decrease from 2012/2013?",2,3,1.0,6
+hitab_num,by what percentage did the number of industrial sewing machine operators decrease from 1996 to 2016?,2,4,0.33333333333333337,3
+hitab_num,by what percentage did the number of service station attendants decline between 1996 and 2016?,2,3,0.5,2
+hitab_num,by what percentage did the number of data entry clerks decline between 1996 and 2016?,2,4,0.5,2
+hitab_num,"by what percentage did the number of banking, insurance and other financial clerks decline between 1996 and 2016?",2,4,0.5,2
+hitab_num,"during the 2000s the chronic low-income rate,what was the maximum in 2014 and 2012 respectively?",2,4,1.0,3
+hitab_num,what is the percentage of men drivers who reported having driven an on-road vehicle after consuming two drinks in the hour before driving?,2,3,0.5,4
+hitab_num,what is the percentage of impaired drivers who reported having driven an on-road vehicle between 18 and 34 years?,2,3,0.5,3
+hitab_num,what is the percentage of impaired drivers who reported having driven an on-road vehicle from the top two income quintiles?,2,3,0.5,3
+hitab_num,how many times is the percentage of the drivers in the top quintile than that of the drivers in the bottom quintile to report having driven after drinking?,2,3,0.0,2
+hitab_num,what percent of drivers who did drink and drive did drivers who reported excessive drinking at least once a week represent?,2,3,0.6666666666666667,5
+hitab_num,how many times the missed rate of immigrants who settled in 2011 is that for the entire immigrant frame?,2,3,0.6666666666666667,4
+hitab_num,how many times the missed rate of immigrants who settled in 2011 is the entire rrc sample?,2,3,1.0,4
+hitab_num,what was the percentage of canadian workers aged 25 to 59 with at least a bachelor's degree overqualified?,2,2,0.0,0
+hitab_num,how many possible trajectories in 2006 and 2016 ?,2,3,1.0,1
+hitab_num,what was the percentage of workers experienced overqualification at least once during the two years observed ?,2,2,0.0,0
+hitab_num,what were the percentages of immigrant women and men who experienced overqualification at least once?,2,3,0.0,6
+hitab_num,how many percent of the annual earnings of english-speaking male immigrants admitted between the ages of 25 and 59?,2,3,0.0,4
+hitab_num,how many percent among men admitted between the ages of 15 and 24?,2,1,1.0,4
+hitab_num,how many percent among men admitted before the age of 15?,2,3,1.0,4
+hitab_num,"without control variables, how many percentage points was the difference between youth aged 20 to 24 and individuals aged 65 to 74?",2,4,0.0,2
+hitab_num,how many percentage points does inter-provincial trade fall due to rudeuced border costs?,2,3,0.5,2
+hitab_num,how many percentage points does intra-provincial trade fall due to rudeuced border costs?,2,3,0.5,2
+hitab_num,how many percentage points of increase does an increase to mfn tariffs plus associated non-tariff barriers reduce canadian exports to the united states?,2,3,1.0,2
+hitab_num,how many percentage points of increase does an increase to mfn tariffs plus associated non-tariff barriers reduce u.s. exports to canada?,2,3,1.0,1
+hitab_num,"overall, what percent of all completed court cases in the study included multiple charges against the accused, for both ipv and non-ipv cases?",2,3,1.0,7
+hitab_num,what percent of total completed cases involving with multiple charges resulted in a guilty outcome?,3,3,0.6666666666666667,5
+hitab_num,"in ipv cases, how many times of the proportion of males who received a sentence of custody was as high as that of females found guilty of some form of ipv?",2,3,0.75,12
+hitab_num,what is the range of the largest difference outside quebec related to the perception of the rcmp as a very important national symbol?,2,3,0.0,2
+hitab_num,what percent of the proportion of canadians who had confidence in police was higher among those who believed it was very likely a lost wallet would be returned if found by a police officer compared to those who believed it was not at all likely?,2,4,0.25,13
+hitab_num,how much more likely were women aged 60 to 69 to have their hypertension under control than women aged 70 to 79?,2,3,0.5,4
+hitab_num,how much less likely were women with diabetes to have their hypertension under control than women without diabetes?,2,3,0.0,4
+hitab_num,how much more likely were men with cardiovascular disease to have controlled hypertension than men without cardiovascular disease?,2,3,0.0,8
+hitab_num,how much less likely were men with diabetes to have controlled hypertension than men without diabetes?,2,3,0.0,7
+hitab_num,how much less likely were men who used nsaids to have controlled hypertension than men men who did not use nsaids?,2,3,0.5,7
+hitab_num,what was the multiple relationship between out-of-the-labour-force inuit and employed inuit who gather for monetary reasons?,2,3,0.6666666666666667,5
+hitab_num,what was the multiple relationship between daily cigarette smokers who reported using cannabis nmo in the previous year and non-daily smokers ?,2,3,0.5,25
+hitab_num,what is the percentage of victims of police-reported violent crime in canada to be female?,2,3,0.5,5
+hitab_num,what is the percentage of recent immigrants among the estimated 2.6 million immigrants?,3,3,0.5,6
+hitab_num,at least how many years are recent immigrants younger than their canadian-born counterparts?,2,4,0.0,4
+hitab_num,"what percentage of all the immigrants were ""pre-landing"" ?",2,3,0.0,1
+hitab_num,"according to the 2014/2015 integrated criminal court survey, what was the percentage of females in the completed court cases?",3,3,0.5,9
+hitab_num,"of all cases involving a female accused disposed of in adult criminal court in 2014/2015, what was the percentage of property crimes?",2,3,1.0,11
+hitab_num,"of all cases involving a female accused disposed of in adult criminal court in 2014/2015, what was the percentage of violent crimes?",2,3,1.0,10
+hitab_num,"of all cases involving a female accused disposed of in adult criminal court in 2014/2015, what was the percentage of offences relating to the administration of justice?",2,3,0.6666666666666667,11
+hitab_num,"among cases involving a female accused settled in youth courts, what was the percentage of property offences in 2015?",2,3,0.33333333333333337,11
+hitab_num,"among cases involving a female accused settled in youth courts, what was the percentage of violent crimes in 2015?",2,3,0.6666666666666667,10
+hitab_num,"among cases involving a female accused settled in youth courts, what was the percentage of violations of other federal statutes in 2015?",2,3,0.6666666666666667,10
+hitab_num,what was the percentage of theft among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,0.6666666666666667,10
+hitab_num,what was the percentage of level i assault among the charges in cases involving a female accused completed in adult criminal court in2015?,2,3,1.0,10
+hitab_num,what was the percentage of impaired driving among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,0.6666666666666667,10
+hitab_num,what was the percentage of failure to comply with a court order among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,1.0,10
+hitab_num,what was the percentage of breach of probation among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,0.6666666666666667,10
+hitab_num,what was the percentage of major assault among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,0.6666666666666667,10
+hitab_num,what was the percentage of fraud among the charges in cases involving a female accused completed in adult criminal court in 2015?,2,3,0.6666666666666667,10
+hitab_num,"what was the percentage of theft, level i assault, impaired driving, failure to comply with a court order, breach of probation, major assault and fraud of all cases involving a female accused disposed of in adult criminal courts in2015?",3,4,1.0,9
+hitab_num,"among cases completed in youth criminal court, what was the percentage of theft in the offences involving a female accused in 2015?",2,3,0.6666666666666667,10
+hitab_num,"among cases completed in youth criminal court, what was the percentage of level i assault in the offences involving a female accused in 2015?",2,3,1.0,10
+hitab_num,"among cases completed in youth criminal court, what was the percentage of youth criminal justice act (ycja) offences in the offences involving a female accused in 2015?",2,3,0.6666666666666667,10
+hitab_num,"among cases completed in youth criminal court, what was the percentage of failure to comply with a court order in the offences involving a female accused in 2015?",2,3,1.0,10
+hitab_num,"in cases of theft, what was the percentage of females accused in 2015?",3,3,0.0,5
+hitab_num,"in cases of fraud, what was the percentage of females accused in 2015?",3,3,0.0,5
+hitab_num,"in cases of possession of stolen property, what was the percentage of females accused in 2015?",3,3,0.5,5
+hitab_num,"in cases of failure to appear in court, what was the percentage of females accused in 2015?",3,3,0.0,5
+hitab_num,"in cases of other offences relating to the administration of justice, what was the percentage of females accused in 2015?",3,3,0.0,5
+hitab_num,"in cases of physical assault, what was the percentage of females accused in 2015?",3,3,0.5,5
+hitab_num,"in cases of prostitution, what was the percentage of females accused among youth in 2015?",2,3,0.33333333333333337,10
+hitab_num,"in cases of failure to appear in court, what was the percentage of females accused among youth in 2015?",2,3,0.33333333333333337,10
+hitab_num,"in cases of common assault, what was the percentage of females accused among youth in 2015?",2,3,0.33333333333333337,10
+hitab_num,"in cases of disturbing the peace, what was the percentage of females accused among youth in 2015?",2,3,0.33333333333333337,10
+hitab_num,"in cases of theft, what was the percentage of females accused among youth in 2015?",2,3,0.33333333333333337,10
+hitab_num,"what was the percentage of canadian adults having either hearing loss or tinnitus,or both from 2012 to 2015?",2,4,1.0,7
+hitab_num,how many times more likely were canadian adults who experienced both hearing loss and tinnitus to use hearing aids than those with hearing loss alone from 2012 to 2015?,2,4,0.6666666666666667,10
+hitab_num,"business r&d is concentrated in a small number of states, how many million dollars are with the 10 states with the highest levels of r&d performance accounting of the $233 million total.",2,3,1.0,1
+hitab_num,"business r&d is concentrated in a small number of states, how many percent are with the 10 states with the highest levels of r&d performance accounting of the $233 billion total?",2,4,1.0,1
+hitab_num,"the largest state in terms of self-funded business r&d performance, california, how many percent accounting of business r&d performance in the united states?",2,3,0.5,2
+hitab_num,how many times were the odds of using or being exposed to laser pointers for males higher than for females?,2,4,0.5,29
+hitab_num,how many times were the odds of using or being exposed to cosmetic lasers for females higher than for males?,2,4,0.5,29
+hitab_num,which year's revision to growth in annual real gdp was lowest?,2,3,1.0,3
+hitab_num,which year's revision to growth in annual real gdp was highest?,2,4,1.0,2
+hitab_num,how many police-reported hate crime incidents in 2015 were motivated by sexual orientation fewer than the previous year?,2,4,0.6666666666666667,5
+hitab_num,what is the ratio of women aged 15 to 24 years with a mental health-related disability to those of men?,2,3,0.0,7
+hitab_num,"among those without disabilities, how many times the poverty rate among lone parents was higher than that of those in two-parent households with children?",2,3,1.0,4
+hitab_num,what percent of gaps were one or two years long?,2,5,1.0,22
+hitab_num,"in 2018, how many percentage points did basic research activities account for of total u.s. r&d expenditures?",2,4,0.0,7
+hitab_num,"in 2018, how many percentage points did applied research activities account for of total u.s. r&d expenditures?",2,4,0.0,7
+hitab_num,how many percentage points did higher education account for of the $101.1 billion of basic research in 2018?,2,5,0.0,6
+hitab_num,how many percent of the travelling distance of shipments of to other dangerous goods is equal to that of crude petroleum products?,2,3,0.33333333333333337,3
+hitab_num,how many times of canadians who reported having been the victim of one incident of crime in the past 12 months were likely to have experienced hidden homelessness than those who were not the victim of a crime?,2,3,1.0,3
+hitab_num,"according to the 2008-base mbm, how many percent of the poverty rate has declined from 2015 to 2018?",3,4,0.6666666666666667,11
+hitab_num,"according to the proposed 2018-base mbm, how many percent of the poverty rate has declined from 2015 to 2018?",3,3,0.6666666666666667,11
+hitab_num,what was the percentage points of filipino women of core working age were also more likely than women who were not a visible minority to be employed?,2,4,0.0,2
+hitab_num,"for women of core working age (25 to 54 years), what was the range of the unemployment rate?",2,4,0.0,0
+hitab_num,what was the unemployment rate of filipino lower than that of women who did not belong to a visible minority group?,2,4,0.5,2
+hitab_num,what was the unemployment rate of arab higher than that of women who did not belong to a visible minority group?,2,3,0.5,2
+hitab_num,what was the unemployment rate among canadian-born arab women higher than the unemployment rate for canadian-born women who were not a visible minority?,2,4,0.0,3
+hitab_num,"in 2017, how many perentages points did basic research activities account of total u.s. r&d expenditures?",2,3,0.6666666666666667,7
+hitab_num,"in 2017, how many perentages points did applied research activities account of total u.s. r&d expenditures?",2,4,0.6666666666666667,7
+hitab_num,"in 2017, most of the total of u.s. r&d expenditures was experimental development, how many percent of experimental development?",2,3,0.6666666666666667,7
+hitab_num,"in 2011, what is the proportional range of english-language workers in quebec's agri-food sector that were employed?",2,3,0.0,0
+hitab_num,"in toronto, what was the ratio ranges across census tracts from 5th to 95th percentile?",2,4,0.0,6
+hitab_num,what's the percent that mfp without utilization adjustment declined over the period from 2000 to 2009?,2,4,0.5,3
+hitab_num,what's the percent that mfp growth decreased from 2000 to 2009?,2,4,0.0,3
+hitab_num,what's the percent that it slow down in mfp growth over the two periods.?,2,3,0.5,3
+hitab_num,how many times did the percentage of women who experienced unwanted behaviours in public places more than they were online in the past 12 months of 2018?,2,4,0.6666666666666667,2
+hitab_num,what percentage of women who had experienced unwanted behaviour online took protective measures in the past 12 months of 2018 are?,2,1,0.5,1
+hitab_num,"the gender gap in victimization was driven by a substantially higher prevalence of sexual assaults experienced by women in 2018, how many times have who were almost more likely than men been sexually assaulted since age 15?",2,3,0.0,17
+hitab_num,"in 2018/2019, how much the rate of adults in remand decreased slightly from the previous year?",2,3,0.5,6
+hitab_num,"in 2018/2019, how much the rate of adults in sentenced custody decreased slightly from the previous year?",2,4,0.5,6
+hitab_num,"the rate of adults in remand decreased in 6 of the 13 reporting provinces and territories, what is the decrease in manitoba in 2018/2019?",2,3,0.5,4
+hitab_num,"in 2018/2019, the rate of adults in sentenced custody decreased compared to the previous year in 10 of the 13 reporting provinces and territories, what is the rate of the greatest decrease in nova scotia?",2,3,0.0,3
+hitab_num,how much rate of adults in federal sentenced custody decreased compared to 2018/2019?,2,3,0.0,4
+hitab_num,"in 2018/2019, how much rate of adults on probation decreased compared to 2017/2018?",2,4,0.5,6
+hitab_num,"the number of postdocs doing research in science fields in 2019 is similar to that in 2012, how many percentage points has declined?",2,4,0.6666666666666667,13
+multihiertt_num,What was the total amount of Allowance greater than 270 in 2018? (in million),2,6,1.0,5
+multihiertt_num,"What is the proportion of Asset Management to the total Mortgage and other loans receivable, net of allowance in 2006?",2,3,0.6666666666666667,1
+multihiertt_num,What was the total amount of Amount greater than 5000 in 2013?,2,3,1.0,4
+multihiertt_num,what was the percentage change in the allowance for loan losses from 2008 to 2009?,3,4,1.0,1
+multihiertt_num,What was the total amount of Net interest revenue and Non-interest revenue in 2009 ? (in million),2,3,0.0,4
+multihiertt_num,what was the percentage change in cash from operations between 2008 and 2009?,3,6,0.0,3
+multihiertt_num,What was the average of the Total operating revenues in the year where Other investment income/(losses) is positive? (in million),4,4,0.6,7
+multihiertt_num,What is the average increasing rate of Purchased power between 2017 and 2018? (in million),3,6,0.6666666666666667,3
+multihiertt_num,What is the growing rate of BENEFIT OBLIGATION AT END OF YEAR for Con Edison in the year with the least Benefit obligation at beginning of year for Con Edison?,3,5,0.7142857142857143,2
+multihiertt_num,"In the section with the most Liquid hydrocarbons(mmbbl), what is the growth rate of Natural gas(bcf)?",3,3,0.6666666666666667,5
+multihiertt_num,by what percentage did the aeco natural gas sales index decline from 2011 to 2013?,3,4,0.33333333333333337,3
+multihiertt_num,"What is the ratio of all amount that are smaller than 100 to the sum of amount, in 2008? (in %)",3,6,1.0,8
+multihiertt_num,what was the percent of the decline in the gross unrecognized tax benefits from 2009 to 2010,3,4,1.0,1
+multihiertt_num,"What is the sum of Net interest revenue, Non-interest revenue and Revenues, net of interest expense in 2009? (in million)",2,4,0.19999999999999996,5
+multihiertt_num,what is the growth rate in operating income of hr solutions from 2009 to 2010?,3,3,0.0,3
+multihiertt_num,What's the increasing rate of Investment Bank for Total in 2009?,3,4,0.6666666666666667,3
+multihiertt_num,What was the total amount of elements for RevPAR excluding those elements greater than 150 in 2016 ?,2,3,1.0,8
+multihiertt_num,What's the increasing rate of Secured debt in 2006 Ended December 31?,3,4,1.0,3
+multihiertt_num,What's the total amount of Rental and management in 2010? (in thousand),2,3,0.75,1
+multihiertt_num,"What is the total value of Operating income, Other investment income/(losses), Equity in earnings of unconsolidated affiliates and Interest and dividend income for before consolidation ? (in million)",2,5,0.16666666666666663,5
+multihiertt_num,What is the percentage of Consumer in relation to the total in 2008 ? (in %),2,3,0.33333333333333337,5
+multihiertt_num,What will Investment securities be like in 2013 if it develops with the same increasing rate as current? (in million),5,5,0.6666666666666667,3
+multihiertt_num,What is the sum of Net written premiums in the range of 1 and 3000 in 2014? (in million),2,3,0.75,4
+multihiertt_num,What was the total amount of the Additions to customer relationship and acquisition costs in the sections where Cash Flows from Operating Activities greater than 0?,2,3,1.0,4
+multihiertt_num,what is the percentage change in the balance of asset allocation from 2016 to 2017?,3,4,1.0,3
+multihiertt_num,what was the percent change in operating leases between 2011/12 and 2013/4?,3,5,0.6666666666666667,3
+multihiertt_num,what was the percentage change in net cash provided by operating activities from 2016 to 2017?,3,4,0.6666666666666667,3
+multihiertt_num,what is the roi of an investment in s&p500 index from 2011 to 2012?,3,3,0.5,2
+multihiertt_num,what is the growth rate in net reserves in 2006?,3,3,0.33333333333333337,3
+multihiertt_num,What is the ratio of Commercial – domestic to the total in 2009?,2,3,0.6666666666666667,4
+multihiertt_num,"What do all elements sum up in 2012 , excluding Gross profit and Operating expenses? (in million)",2,3,0.6666666666666667,4
+multihiertt_num,What's the total amount of theU.S. dollars sold for Pounds sterling in the years where U.S. dollars sold for Pounds sterling is greater than 1?,2,3,0.75,4
+multihiertt_num,how much did the company 2019s valuation allowance decrease from 2011 to 2012?,3,3,0.0,0
+multihiertt_num,"In the year with largest amount of advertising, what's the increasing rate of total revenues? (in %)",3,5,0.5,4
+multihiertt_num,"What do all Benefits earned during the year sum up, excluding those negative ones in 2010 for Pension plans ? (in million)",2,4,0.6666666666666667,3
+multihiertt_num,what is the basic net income ( loss ) attributable to common shareholders as a percentage of diluted net income ( loss ) attributable to common shareholders in 2008?,3,3,0.6666666666666667,3
+multihiertt_num,What is the sum of the Case reserves in the years in gross where Case reserves is positive? (in million),2,3,0.6666666666666667,6
+multihiertt_num,What is the ratio of the Secured debt to the Total debt in 2005 Ended December 31?,2,3,1.0,3
+multihiertt_num,How many loans exceed the average of total loans in 2011?,2,5,0.8888888888888888,25
+multihiertt_num,What is the growing rate of Amplifiers/Radio frequency in table 0 in the year with the most Converters in table 0?,3,3,0.5,4
+multihiertt_num,"As As the chart 3 shows,what's the growth rate of the value of Total revenues for Regulated Natural Gas in 2008?",3,2,0.6666666666666667,4
+multihiertt_num,"If Americas develops with the same growth rate in 2004, what will it reach in 2005? (in million)",5,3,0.6666666666666667,3
+multihiertt_num,"What's the average of US SBU in 2014, 2013, and 2012? (in million)",3,4,0.75,5
+multihiertt_num,"In the section with lowest amount of Sales, what's the increasing rate of Fair Value ? (in %)",3,4,1.0,2
+multihiertt_num,what is the growth rate in net reserves in 2005?,3,3,0.33333333333333337,3
+multihiertt_num,by how much did the allowance for doubtful accounts increase from 2005 to 2006?,3,3,1.0,3
+multihiertt_num,"What is the growing rate of Net interest income in the years with the least Total revenue, net of interest expense?",3,4,0.7777777777777778,4
+multihiertt_num,What's the average of total loan in 2011? (in million),2,4,0.8888888888888888,25
+multihiertt_num,by how much did net rental expense increase from 2006 to 2008?,3,3,0.0,3
+multihiertt_num,"In the year with lowest amount of Other analog, what's the increasing rate of Converters?",3,6,0.5,4
+multihiertt_num,What's the total amount of the elements in the years where Residential is greater than 20? (in (million),2,4,1.0,7
+multihiertt_num,what are the total current assets of metropolitan?,2,3,1.0,4
+multihiertt_num,What was the average of Finance — Finance Companies for Amortized cost Gross unrealized gains Gross unrealized losses (in million),3,3,0.75,4
+multihiertt_num,What is the sum of investment income in the range of 100 and 1000 in 2014? (in million),2,5,1.0,7
+multihiertt_num,what was the percentage change in share-based compensation expense between 2012 and 2013?,3,3,1.0,1
+multihiertt_num,What was the average value of the Cost of goods sold in the years where External net sales is positive?,3,4,0.6666666666666667,1
+multihiertt_num,How much is the Total expenses for Corporate Benefit Funding less than the 50% of the sum of all Total expenses? (in million),3,4,0.6666666666666667,7
+multihiertt_num,what was the percentage change in weighted average shares outstanding for diluted net earnings per share from 2006 to 2007?,3,4,0.0,3
+multihiertt_num,what was the percentage change in the allowance for loan losses from 2007 to 2008?,3,5,1.0,1
+multihiertt_num,"If Investment Bank for Total develops with the same increasing rate in 2009, what will it reach in 2010? (in million)",5,5,0.6666666666666667,3
+multihiertt_num,what is the percent change between net revenue in 2006 and 2007?,3,4,1.0,3
+multihiertt_num,What will Secured debt be like in 2007 Ended December 31 if it develops with the same increasing rate as in 2006 Ended December 31? (in thousand),5,3,1.0,4
+multihiertt_num,What's the total value of all Value (In millions) that are in the range of 400 and 1000 in 2011? (in million),2,3,1.0,7
+multihiertt_num,What is the growing rate of Total costs and expenses in the year with the most Total revenue?,3,4,0.6666666666666667,3
+multihiertt_num,what was the percentage change in cash provided by operating activities from 2007 to 2008?,3,4,0.0,3
+multihiertt_num,percent change of average shares outstanding when taking dilution into consideration in 2008?,3,4,0.6666666666666667,3
+multihiertt_num,"What is the percentage of all Qualifying Accounting Hedges-2 that are positive to the total amount, in 2010 for Gross Derivative Assets?",3,3,1.0,12
+multihiertt_num,"What is the total value of Operating revenues, Purchased power , Fuel and Other operations and maintenance for Electric ? (in million)",2,3,0.19999999999999996,5
+multihiertt_num,"What's the average of Policy fees in 2012, 2011, and 2008?",3,3,0.75,4
+multihiertt_num,what was the percentage change in revenues for investments in 50% ( 50 % ) or less owned investments accounted for using the equity method between 2001 and 2002?,3,4,0.0,3
+multihiertt_num,What is the sum of value in the range of 400 and 1000 in 2011? (in million),2,5,1.0,8
+multihiertt_num,what was the percentage change in net sales from 2011 to 2012?,3,4,0.0,3
+multihiertt_num,What was the total amount of the Income from continuing operations in the years where Income taxes is greater than 1000? (in million),2,4,0.75,13
+multihiertt_num,what is the growth rate of net sales from 2014 to 2015?,3,5,0.0,3
+multihiertt_num,what is the percentage increase in rsus from 2009 to 2010?,3,5,0.0,3
+multihiertt_num,"What is the sum of the Portland, OR in the sections where San Francisco is positive? (in thousand)",2,3,0.8888888888888888,7
+multihiertt_num,What's the total value of all elements that are in the range of 1000 and 3000 for Fair of Total?,2,3,1.0,5
+multihiertt_num,"In the year with larger amount for Europe, what's the increasing rate of the amount for Asia-Pacific ?",3,4,1.0,4
+multihiertt_num,What was the total amount of Square Feet-1 /Apartment Units excluding those Square Feet-1 /Apartment Units greater than 100000 for Square Feet-1 /Apartment Units?,2,3,0.6666666666666667,3
+multihiertt_num,What's the average of Other operations and maintenance in 2018? (in million),3,3,0.6666666666666667,3
+multihiertt_num,What's the total value of all amount that are smaller than 100 in 2008? (in million),2,6,1.0,5
+multihiertt_num,what was the percentage change in the free cash flow from 2014 to 2015,3,5,0.0,3
+multihiertt_num,"What is the ratio of all elements that are in the range of 1000 and 3000 to the sum of elements, for Fair of Total?",3,5,1.0,6
+multihiertt_num,by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?,3,4,0.6666666666666667,1
+multihiertt_num,"What is the ratio of all value that are in the range of 400 and 1000 to the sum of value, in 2011?",3,5,1.0,10
+multihiertt_num,what was the percentage change in pro forma diluted earnings per common share from 2001 to 2002?,3,4,0.0,3
+multihiertt_num,What will GAAP of Operating Income be like in 2017 if it develops with the same increasing rate as current?,3,4,1.0,7
+multihiertt_num,"What's the sum of all element that are greater than 10000 in Mar 31, 2008 (in thousand)",2,3,1.0,6
+multihiertt_num,"In the year with lowest amount of Deposits with banks Average volume, what's the increasing rate of Deposits with banks Average volume?",3,6,0.6666666666666667,3
+multihiertt_num,What's the average of Provision for credit losses and Gains on sales of debt securities of Restated in 2005? (in million),3,3,0.75,2
+multihiertt_num,what percent of the net change in revenue between 2006 and 2007 was due to transmission revenue?,3,4,0.75,4
+multihiertt_num,What's the average of Curtailments and Settlements and Special termination benefits in 2010? (in million),3,4,0.25,4
+multihiertt_num,"what was the percentage cumulative total shareholder return on disca for the five year period ended december 31 , 2018?",3,3,0.5,2
+multihiertt_num,"What was the total amount of U.S. high-grade-1，Eurobond-2，Other-3 and Total commissions in Mar 31, 2008 (in thousand)",2,4,0.19999999999999996,5
+multihiertt_num,How many years does Euro sold for U.S. dollars stay higher than Japanese yen sold for U.S. dollars?,2,4,0.75,4
+multihiertt_num,What is the sum of Capital lease obligations for payments due by period ? (in thousand),2,4,0.8,1
+multihiertt_num,What is the sum of the Total expenses in the years where Other income is positive? (in million),2,4,0.0,14
+multihiertt_num,"What's the total amount of Subtotal analog signal processing without those Subtotal analog signal processing smaller than 500000, in 2014?",2,3,1.0,4
+multihiertt_num,what was the total impairment relating to us assets?,3,3,1.0,3
+multihiertt_num,What is the ratio of Total assets-6 to the total in 2000?,3,3,0.8333333333333334,6
+multihiertt_num,what was the percentage change in cash provided by operating activities from 2008 to 2009?,3,4,0.0,3
+multihiertt_num,by how much did the fair value of stock-based performance units outstanding decrease from 2016 to 2018?,3,4,0.6666666666666667,1
+multihiertt_num,What will Exercise of stock options of Shares reach in 2006 if it continues to grow at its 2005 rate? (in thousand),5,4,0.6666666666666667,1
+multihiertt_num,"As As the chart 4 shows,what do all Total revenues sum up, excluding the Total revenues for Retirement Products and the Total revenues for Corporate Benefit Funding? (in million)",2,5,0.75,8
+multihiertt_num,"What was the sum of Fourth Quarter without those Fourth Quarter smaller than 0, in 2012? (in million)",2,3,1.0,4
+multihiertt_num,"In the year with the most Premiums, what is the growth rate of Interest credited to bank deposits?",3,3,1.0,3
+multihiertt_num,by how much did the balance increase from the beginning of 2017 to the end?,3,3,1.0,2
+multihiertt_num,what is the growth rate in net revenue for entergy wholesale commodities in 2013?,3,4,1.0,3
+multihiertt_num,what is the growth rate in operating profit for space systems in 2011?,3,3,0.33333333333333337,2
+multihiertt_num,"What is the average value of Total operating revenues for Corporate Benefit Funding, Auto & Home, and International ? (in million)",3,4,0.5,4
+multihiertt_num,What's the growth rate of Segment net sales in 2012?,3,3,0.6666666666666667,3
+multihiertt_num,"what was the percentage cumulative total shareholder return on discb for the five year period ended december 31 , 2018?",3,3,0.5,2
+multihiertt_num,"What do all Proved Developed Reserves sum up in 2013 for U.S. , excluding Synthetic crude oil(mmbbl) and Total proved developed reserves(mmboe)?",2,4,1.0,7
+multihiertt_num,"What was the total amount of September 30, 2009 in the range of 0 and 1000 in 2009 ? (in thousand)",2,4,1.0,8
+multihiertt_num,What was the average value of the Income taxes payable in the years where Net earnings is positive?,3,4,1.0,0
+multihiertt_num,What is the sum of the Finance — Finance Companies in the sections where Finance — Finance Companies is positive? (in million),2,3,0.8,5
+multihiertt_num,What will Commercial – foreign reach in 2010 if it continues to grow at its current rate? (in millions),5,3,0.6666666666666667,3
+multihiertt_num,What's the total value of all net income for before consolidation that are in the range of 10 and 600 in 2010? (in million),2,3,0.8,4
+multihiertt_num,based on the review of the changes in the warranty reserve what was the percentage change in the year end balance in 2009,3,5,1.0,5
+multihiertt_num,What will Total assets reach in 2014 if it continues to grow at its current rate?,5,3,0.6666666666666667,3
+multihiertt_num,by what percentage did adjustments to valuation allowances increase from 2011 to 2012>,3,5,0.6666666666666667,3
+multihiertt_num,"In the year with largest amount of Pension plans, what's the increasing rate of Benefits earned during the year?",4,5,0.8,5
+multihiertt_num,"If Noninterest expense develops with the same growth rate in 2016, what will it reach in 2017? (in million)",5,3,0.6666666666666667,1
+multihiertt_num,"What's the total value of all Year Ended October 31, that are in the range of 0 and 5 in 2017? (in million)",2,4,1.0,3
+multihiertt_num,what was the growth in the account balance in 2017,3,3,1.0,2
+multihiertt_num,what portion of the securities approved by the security holders remains available for future issunce?,3,3,1.0,1
+multihiertt_num,"What do all Notional sum up, excluding those negative ones in 2008 for As of December 31, 2008 for Financial assets with interest rate risk? (in million)",2,4,1.0,4
+multihiertt_num,"In the year with largest amount of SquareFeet of Total Consolidated Portfolio, what's the increasing rate of Ann. RentRevenue of Total Consolidated Portfolio?",3,3,1.0,3
+multihiertt_num,What is the growing rate of total asset-6 in the year with the most gross profit? (in %),3,4,1.0,2
+multihiertt_num,what is the percentage change in total debt in 2015?,3,3,0.33333333333333337,4
+multihiertt_num,what was the change in the weighted average common shares outstanding for diluted computations from 2017 to 2018,3,4,0.0,3
+multihiertt_num,"What is the total value of Benefits earned during the year, Interest cost on benefit obligations, Actuarial gain (loss) and Benefits paid for U.S. in 2005? (in million)",3,2,0.19999999999999996,6
+multihiertt_num,"What is the sum of the Unrealized gains (losses) on derivative instruments, net of income tax in the years where Net income greater than 4000?",3,3,0.5,3
+multihiertt_num,"What was the average of Collection:Total Collection in 2008,2007 and 2006 ?",3,3,0.0,4
+multihiertt_num,"what is the highest total amount of Product revenues, net in 2014?? (in million)",2,4,0.8333333333333334,6
+multihiertt_num,What is the sum of Total Deliveries In Franchise Area in 2010 ? (in million),2,4,0.6666666666666667,5
+multihiertt_num,what is the percentage change in weighted average common shares outstanding for diluted computations from 2015 to 2016?,3,4,0.33333333333333337,3
+multihiertt_num,"In the year with the most Equity securities, what is the growth rate of Policy loans? (in %)",3,5,0.5,4
+multihiertt_num,what is the total mw capacity of the boiling water reactors?,2,2,1.0,4
+multihiertt_num,what is the percentage change in the balance of inventories from 2012 to 2013?,3,4,0.33333333333333337,3
+multihiertt_num,What's the 30% of total for Total transaction and integration charges in 2010? (in million),2,2,1.0,2
+multihiertt_num,How much of Home equity is there in total without California and New York?,2,3,0.9166666666666667,13
+multihiertt_num,"If Swaps in terms of Interest rate contracts with Contract/ Notional develops with the same growth rate in 2005, what will it reach in 2006? (in dollars in millions)",5,3,0.6666666666666667,6
+multihiertt_num,what is the percentage change in weighted average common shares outstanding for basic computations from 2017 to 2018?,3,4,0.0,3
+multihiertt_num,"What's the total amount of Converters, Amplifiers/Radio frequency, Other analog and Subtotal analog signal processing in 2014?",2,3,0.19999999999999996,5
+multihiertt_num,what is the growth rate in net revenue in 2008 compare to 2007?,3,4,1.0,3
+multihiertt_num,"What is the total value of Mutual funds, Insurance and annuity products, Equity products and Fixed income products in 2018? (in thousand)",2,3,0.19999999999999996,5
+multihiertt_num,What will Andes SBU be like in 2015 if it continues to grow at the same rate as it did in 2014? (in million),5,4,0.6666666666666667,4
+multihiertt_num,What will Long-term debt reach in 2010 if it continues to grow at its current rate?,5,3,1.0,3
+multihiertt_num,what is the percentage change in common shareholders 2019 equity due to the adjustments presented in the table to reach basel iii cet1?,3,4,0.6666666666666667,2
+multihiertt_num,What is the sum of the Total operating expenses in the sections where Total operating revenues is positive? (in million),2,4,0.6666666666666667,3
+multihiertt_num,What is the sum of purchased impaired in the range of 200 and 3000 in 2011? (in million),2,3,1.0,5
+multihiertt_num,what was the percentage change in accrued warranties and related costs from 2005 to 2006?,3,5,0.33333333333333337,3
+multihiertt_num,What is the growing rate of Fuel in the year with the most Electric?,3,3,0.6666666666666667,3
+multihiertt_num,"What is the average value of Loans held for sale in 2012, 2011, and 2010 ? (in million)",3,4,0.75,4
+multihiertt_num,What's the increasing rate of Cost of sales in 2009?,3,3,0.6666666666666667,1
+multihiertt_num,What will Inventories be like in 2015 if it develops with the same increasing rate as current? (in million),5,4,0.6666666666666667,3
+multihiertt_num,"What is the total value of Orange Co., CA, San Francisco, CA, Los Angeles, CA and San Diego, CA for Number of Apartment Communities?",2,4,0.0,4
+multihiertt_num,"What is the average value of Gain (loss) on assets related to executive deferred compensation plan in 2017,2016 and 2015 for Year Ended October 31,? (in million)",3,5,0.75,4
+multihiertt_num,"What's the average of Cash and cash equivalents and Goodwill and intangible assets, net and Borrowings in 2017? (in dollars in millions)",3,4,0.5,4
+multihiertt_num,"what percentage of total minimum lease payments are operating leases as of december 31 , 2006?",3,3,0.6666666666666667,3
+multihiertt_num,"What's the average of Property and equipment, net and Total assets in 2012? (in thousand)",3,3,0.33333333333333337,2
+multihiertt_num,% ( % ) change of the dilutive effect from 2006-2008,3,3,0.5,1
+multihiertt_num,what is the percentage change in net revenue in 2007 compare to 2006?,3,4,1.0,3
+multihiertt_num,what is the growth rate in generated gwh per year in 2004 compare to 2003?,3,4,0.33333333333333337,3
+multihiertt_num,What is the growing rate of Common equity tier 1 capital in the year with the most Standardized Approach?,4,3,0.8333333333333334,8
+multihiertt_num,"What was the average value of Global syndicated loans, Global long-term debt, Global equity and equity-related in 2004?",3,3,0.25,4
+multihiertt_num,"what is the growth rate in net revenue for entergy texas , inc . in 2007?",3,4,1.0,3
+multihiertt_num,How many Other operations and maintenance exceed the average of Other operations and maintenance in 2018?,3,3,0.6666666666666667,3
+multihiertt_num,What's the 20 % of total equity securities for Level 1 of U.S. defined benefit pension plans in 2011? (in million),2,2,1.0,3
+multihiertt_num,what is the percent change in free cash flow from 2015 to 2016,3,5,0.0,3
+multihiertt_num,"What is the growing rate of Limited partnerships and other alternative investments in the years with the least Policy loans, at outstanding balance?",3,4,0.6666666666666667,3
+multihiertt_num,what percentage of total maturities of debt come due prior to 2019?,3,3,0.6666666666666667,3
+multihiertt_num,"If Segment net sales develops with the same growth rate in 2012, what will it reach in 2013? (in million)",5,3,0.6666666666666667,3
+multihiertt_num,"In the section with lowest amount of Pan AmFairfax, VA 22031 for Amount, what's the increasing rate of Shoppers’WorldCharlottesville, VA 22091-12 for Amount?",3,5,0.6666666666666667,3
+multihiertt_num,What is the average increasing rate of Money market funds between 2012 and 2013?,3,4,0.6666666666666667,3
+multihiertt_num,what was the percentage decline in pipeline barrels from 2007 to 2009?,3,4,0.33333333333333337,3
+multihiertt_num,"In the year with largest amount of Net credit losses, what's the amount of Revenues, net of interest expense and Total operating expenses? (in million)",2,5,0.5,5
+multihiertt_num,"What was the average value of proceeds from sales of investments, proceeds from maturities of investments,proceeds from significant disposals in 2016 for Citigroup consolidated? (in million)",2,4,0.6,3
+multihiertt_num,What was the total amount of the Net Revenues in the years where Investment Banking Fees greater than 8000? (in thousand),2,5,0.6666666666666667,3
+multihiertt_num,What is the sum of elements in 2011 ? (in million),2,2,1.0,3
+multihiertt_num,"What was the average value of the amount for Europe, the amount for Middle East and Africa , the amount for Asia-Pacific in 2017 ?",3,4,0.75,4
+multihiertt_num,What is the sum of the Notebooks/Mobile Devices in the years where Netcomm Products is greater than 1400? (in millions),2,4,0.6,5
+multihiertt_num,What's the sum of all elements that are greater than 10 in Home equity?,2,3,0.75,5
+multihiertt_num,what was the percentage change in the unrecognized tax benefits from 2012 to 2013?,3,5,0.33333333333333337,3
+multihiertt_num,"what is the total value of the issued securities approved by security holders , ( in millions ) ?",3,4,1.0,1
+multihiertt_num,"In the year with largest amount of Services, what's the increasing rate of Hardware ?",3,3,1.0,3
+multihiertt_num,What's the 50% of the sum of all Total expenses? (in million),2,3,0.5,6
+multihiertt_num,What's the sum of all Qualifying Accounting Hedges-2 that are positive in 2010 for Gross Derivative Assets? (in billion),2,3,1.0,12
+multihiertt_num,"What is the average value of CardServices – reported for Loan losses in 2009, 2008, and 2007? (in million)",3,4,0.75,4
+multihiertt_num,What's the sum of all Additional Paid-in Capita that are positive in 2007? (in thousand),2,3,1.0,4
+multihiertt_num,"What is the sum of Cash and cash equivalents and marketable securities, Inventories and Total assets in 2014? (in million)",2,3,0.5,4
+multihiertt_num,"What's the total amount of Swaps, Futures and forwards, Written options and Purchased options in terms of interest rate contracts with Contract/ Notional in 2005? (in dollars in millions)",2,2,0.19999999999999996,17
+multihiertt_num,"If Total revenue develops with the same increasing rate in 2013, what will it reach in 2014? (in millions)",5,5,0.6666666666666667,1
+multihiertt_num,what is the roi of an investment in loews common stock from 2011 to 2012?,3,3,0.0,2
+multihiertt_num,what was the percentage change in share-based compensation expense between 2011 and 2012?,3,5,1.0,1
+multihiertt_num,What will adjusted total assets be like in 2018 if it develops with the same increasing rate as current? (in dollars in millions),5,4,1.0,3
+multihiertt_num,what was the percentage change in revenues for investments in 50% ( 50 % ) or less owned investments accounted for using the equity method between 2000 and 2001?,3,4,0.0,3
+multihiertt_num,What's the growth rate of ABO less fair value of plan assets of Pension Benefits in 2015?,3,5,0.6666666666666667,1
+multihiertt_num,what is the growth rate in net revenue in 2004 for entergy corporation?,3,5,1.0,3
+multihiertt_num,What was the average of the Efficiency for SELECTEDRATIOS in the years where Assets (b) is positive for BALANCESHEETHIGHLIGHTS? (in million),3,4,1.0,6
+multihiertt_num,What is the difference between North America and EMEA 's highest Total change (U.S. GAAP)? (in million),2,4,0.0,26
+multihiertt_num,"what was the percentage change in the repurchase reserve between 2008 and 2009 , in millions?",3,4,1.0,1
+multihiertt_num,"In the year with lowest amount of CECONY full service customers, what's the increasing rate of Delivery service for retail choice customers?",3,4,0.7142857142857143,9
+multihiertt_num,"What was the average of Full service for Gas Delivered($ in millions)in 2012, 2013, and 2014 ? (in million)",3,5,1.0,4
+multihiertt_num,what was the percent of the increase the additions for new sales of the repurchase reserve from 2008 to 2009,3,6,0.0,3
+multihiertt_num,what was the total refined products trunk lines production in tbd for the three year period?,2,2,0.75,4
+multihiertt_num,What's the total amount of Qualifying Accounting Hedges-2 in the range of 0 and 20 in 2010 for Gross Derivative Assets? (in billion),2,4,1.0,12
+multihiertt_num,"What was the average of Net income (loss) for Basic earnings (loss) per share in 2008, 2007, and 2006 ?",4,3,1.0,4
+multihiertt_num,"What's the average of Business separation costs,Business restructuring and cost reduction actions and Pension settlement loss in terms of Operating Income in 2016?",3,3,0.25,12
+multihiertt_num,"What is the ratio of all Year Ended October 31, that are in the range of 0 and 5 in 2017?",3,5,1.0,4
+multihiertt_num,what is the growth rate in operating profit for space systems in 2012?,3,4,0.33333333333333337,2
+multihiertt_num,"In the section with largest amount of Fixed maturities, what's the sum of Policy loans and Swaps ? (in million)",2,3,0.6666666666666667,2
+multihiertt_num,what is the roi of an investment in fidelity national information services from 2007 to 2008?,3,3,1.0,2
+multihiertt_num,"What was the total amount of Foreign govt./govt. agencies, Municipal, RMBS and U.S. Treasuries for Fair of 12 Months or More ?",2,2,0.19999999999999996,5
+multihiertt_num,what was the percentage change in the additions charged to expense from 2011 to 2012 as part of the allowance for doubtful accounts,3,6,0.0,3
+multihiertt_num,What is the growing rate of Residential real estate of Recoveries in the year with the least Commercial real estate of Gross charge-offs?,3,3,1.0,3
+multihiertt_num,what are the total current assets for concentra?,3,4,1.0,4
+multihiertt_num,What is the ratio of Interest expense to the total in 2008? (in %),2,4,1.0,3
+multihiertt_num,"In the year with the most Mutual funds, what is the growth rate of Equity products?",3,4,0.6,5
+multihiertt_num,What was the total amount of the Global equity and equity-related in the years where Global long-term debt greater than 7 for Market Share ?,2,5,0.6666666666666667,3
+multihiertt_num,"What's the 25% of the value of Net plan assets totally as of December 31, 2017? (in million)",2,2,1.0,2
+multihiertt_num,What is the percentage of Con Edison's Current Fair value of derivative assets of Gross Amounts of Recognized Assets/ (Liabilities) in relation to the total in 2014?,2,3,0.75,12
+multihiertt_num,what was the percentage increase in the allowance in doubtful accounts from 2009 to 2010,3,5,1.0,1
+multihiertt_num,what was the percentage change in research and development net from 2011 to 2012?,3,5,0.33333333333333337,3
+multihiertt_num,What's the average of Structured notes and Total long-term unsecured funding in 2016? (in million),3,3,1.0,3
+multihiertt_num,What was the average value of the Home equity for Allowance in the years where Commercial for Allowance is positive? (in million),3,4,0.8333333333333334,6
+multihiertt_num,"In the year with largest amount of Collection: Residential, what's the increasing rate of Total Collection of Collection?",3,4,0.6666666666666667,3
+multihiertt_num,What is the sum of the revenues in the years where Net investment gains (losses) is positive? (in million),2,4,0.8333333333333334,6
+multihiertt_num,what is the percentage increase in total stock-based compensation expense from 2009 to 2010?,3,4,0.0,3
+multihiertt_num,what is the growth rate for backlog at year-end from 2015 to 2016?,3,4,0.33333333333333337,3
+multihiertt_num,What's the sum of all elements that are positive for Auto & Home? (in million),2,3,1.0,4
+multihiertt_num,What's the current growth rate of Exercise of stock options of Shares?,3,3,0.6666666666666667,1
+multihiertt_num,What's the total amount of the Total revenues in the years where Net realized capital gains (losses) is greater than -716?,2,5,0.6666666666666667,3
+multihiertt_num,What is the growing rate of hombuilding in the year with the most financial services?,3,3,1.0,5
+multihiertt_num,What's the growth rate of Swaps in terms of Interest rate contracts with Contract/ Notional in 2005?,3,3,0.6666666666666667,6
+multihiertt_num,"In the year with largest amount of Gas Delivered($ in millions), what's the sum of Firm sales for Gas Delivered($ in millions)? (in million)",2,5,1.0,5
+multihiertt_num,"In the year with lowest amount of Interruptible sales in thousands of Dt Delivered, what's the increasing rate of Total firm sales and transportation? (in %)",3,5,0.75,2
+multihiertt_num,"What do all Cash and cash equivalents sum up, excluding those negative ones in Fair Value? (in million)",2,3,0.6666666666666667,3
+multihiertt_num,what is the growth rate in the consolidated revenues from 2011 to 2012?,3,4,0.33333333333333337,3
+realhitbench_num,What is the total number of individuals not in the labor force among all age groups combined?,2,2,0.375,1
+realhitbench_num,"If the unemployment rate for the 16 years and over group increases by 2 percentage points, what will be the new unemployment percentage?",2,2,0.4285714285714286,2
+realhitbench_num,What is the difference between the total civilian labor force of men for “16 years and over” in 2023 and 2022?,2,4,0.0,4
+realhitbench_num,How many more men were in the civilian labor force compared to women aged 16 years and over in 2022?,2,3,0.09090909090909083,5
+realhitbench_num,What is the total number of participation rates for total Civilian labor force in 2022 and 2023.,2,3,0.1428571428571429,3
+realhitbench_num,"How many more women than men for “16 years and over” were employed in 'Management, professional, and related occupations' in 2022?",2,3,0.07692307692307676,3
+realhitbench_num,"For the occupation 'Management occupations,' what is the combined total employment of men for “16 years and over” in 2022 and 2023?",2,3,0.09999999999999998,3
+realhitbench_num,What was the difference in the number of employed men and women in 2023?,2,3,0.0,3
+realhitbench_num,"If the total workforce for a category increases by 10% in nonagricultural industries for “Total, at work 1 to 34 hours”, what will be the new total?",2,4,0.09090909090909083,2
+realhitbench_num,"How many categories have more than 2,000 individuals working full-time in all industries?",3,4,0.6,1
+realhitbench_num,"Based on the data, calculate the number of people working less than 35 hours in all industries for economic reasons if it increase by 20%.",3,3,0.19999999999999996,2
+realhitbench_num,"Considering data for persons working 1-34 hours, what is the difference between the totals for agricultural and non-agricultural industries? Round the answer to the nearest whole number.",2,3,0.25,3
+realhitbench_num,What is the difference in the total number of people working in Manufacturing and Construction industries in 2023?,2,3,0.375,3
+realhitbench_num,"Based on the data, how many industries catagory report more than 10,000 total workers in 2023?",4,3,0.4,1
+realhitbench_num,Calculate the difference in the total number of workers (in thousands) between 'Service occupations' and 'Professional and related occupations.',3,3,0.19999999999999996,3
+realhitbench_num,Count the number of occupations with an average work hour under 39 hours.,3,3,0.0,1
+realhitbench_num,What is the difference in total unemployment between 2022 and 2023 for Management occupations? Provide the numerical result.,2,3,0.0,3
+realhitbench_num,Calculate the unemployment number change in Computer and mathematical occupations from 2022 to 2023.,3,3,0.125,3
+realhitbench_num,"If the “Unadjusted indexes” of “Food and beverages” increased by 0.6 in Dec. 2024, what is its new index value? (Answer to two decimal places)",2,3,0.0,2
+realhitbench_num,What is the difference between the total fatalities due to 'Transportation Incidents' and 'Violence and Other Injuries'?,2,3,0.125,3
+realhitbench_num,"If the total number of fatalities from 'Self-employed' workers were doubled, what would be the total for 'Falls, Slips, Trips' within this category?",2,3,0.19999999999999996,2
+realhitbench_num,Calculate the difference in average hours spent on household activities between not-employed married fathers and employed full-time married mothers. Round the answer to two decimal places.,3,3,0.0,3
+realhitbench_num,"For employed part-time married mothers, how many hours in total are spent on travel and household activities combined? Round the answer to two decimal places.",3,3,0.0,3
+realhitbench_num,Calculate the total increase in wages and salaries for the Manufacturing sector from September 2023 to September 2024. The answer should be rounded to two decimal places.,2,3,0.5555555555555556,4
+realhitbench_num,How many Census divisions experienced a 3-month change in wages and salaries of 1 or more in the period ending September 2023?,2,3,0.5,2
+realhitbench_num,How many occupational groups within Private industry workers have an Employment Cost Index above 160 in September 2024?,2,3,0.30000000000000004,7
+realhitbench_num,"What is the average percentage change in the Employment Cost Index for benefits for all workers in the private industry over the 12-month periods ending in September 2023, June 2024, and September 2024? The answer should be rounded to two decimal places.",3,3,0.0,4
+realhitbench_num,"What is the difference in average hourly wages between incentive-based pay and time-based pay for Business and Financial Operations Occupations in New York-Newark-Jersey City, NY-NJ-PA?",2,4,0.1875,3
+realhitbench_num,How many cities report an average hourly wage for time-based pay in Sales and Related Occupations that is less than $22?,3,3,0.4,2
+realhitbench_num,What is the total agricultural export value for July and August 2023 combined?,2,3,0.2857142857142857,4
+realhitbench_num,What is the percentage increase in agricultural export value from July to August 2023?,3,3,0.2857142857142857,3
+realhitbench_num,What is the average agricultural export value for July and August 2023?,3,3,0.2857142857142857,4
+realhitbench_num,What is the total export volume (in metric tons) for China during the periods Oct.-Aug. 2022 and Oct.-Aug. 2023 combined?,2,3,0.2857142857142857,3
+realhitbench_num,What is the mean percentage yield for all crops under the condition of removal of negative changes in crop yield where data is not NA?,2,3,0.1333333333333333,7
+realhitbench_num,What is the total live weight in tonnes for Australia across the years 2010 to 2012?,2,4,0.4285714285714286,4
+realhitbench_num,Calculate the average live weight for Belgium from 2014 to 2019. What is the final value?,2,4,0.5,7
+realhitbench_num,What is the mean number of total procedures performed across all countries under Great Britain in 2023?,2,3,0.16666666666666663,7
+realhitbench_num,What was the change in the total number of work visas issued from 2005 to 2014?,3,3,0.375,3
+realhitbench_num,What is the total participation for both English and Maths for the year 201819?,2,3,0.33333333333333337,2
+realhitbench_num,How much higher is the participation in Maths compared to ESOL for the year 201819?,2,3,0.19999999999999996,3
+realhitbench_num,What is the total participation for “of which maths” across all provider types in the table?,2,3,0.2857142857142857,8
+realhitbench_num,How many provider types reported data for both participation and achievement in “All Ages”?,2,4,0.33333333333333337,15
+realhitbench_num," What is the total number of learners who participated in Skills for Life programs in General FE Colleges, Special Colleges, and Sixth Form Colleges?",2,3,0.07692307692307676,4
+realhitbench_num,What is the total number of learners who participated in Skills for Life programs across all institution types?,2,2,0.4285714285714286,12
+realhitbench_num,"If the participation in “Private Sector Public Funded” increased by 15% in the following year, what would the new total participation figure of “Private Sector Public Funded” be?",2,4,0.0,1
+realhitbench_num,What is the total participation for English and Maths programs combined across all institution types?,3,3,0.4,3
+realhitbench_num,What is the total participation for General FE Colleges in both English and Maths programs?,2,3,0.0,3
+realhitbench_num,What is the combined participation of Schools and Private Sector Public Funded institutions for English and Maths programs?,2,3,0.0,4
+realhitbench_num,What is achievement rate of total learners in General FE Colleges?,2,3,0.1428571428571429,4
+realhitbench_num,What is the total participation across all provider types for “of which English”?,2,3,0.4,8
+realhitbench_num,How much greater is the participation for “General FE College incl Tertiary” in “of which English” compared to “of which maths”?,2,3,0.0,3
+realhitbench_num,What is the total number of new business births across all CASE sectors in the East Midlands?,2,4,0.4285714285714286,6
+realhitbench_num,How many regions have more than 2000 births in the Sport sector in 2009?,3,4,0.19999999999999996,10
+realhitbench_num,How many regions reported a turnover per head exceeding 50 in 2005 for Sports Activities?,3,4,0.5714285714285715,12
+realhitbench_num,What is the change value of Belgium’s national disposable income from 2016 to 2020?,1,3,0.5,3
+realhitbench_num,"For Chile, what was the average hospital employment from 2015 to 2023?",3,4,0.16666666666666663,10
+realhitbench_num,"How many years in the dataset have a percentage of expenditure on fuel, light, and power exceeding 6%?",3,3,0.4444444444444444,40
+realhitbench_num,"Rank the years 1970 to 1973 based on the total expenditure on fuel, light, and power (£) in 2009 prices. What is the rank of the year with the highest expenditure? ",2,4,0.18181818181818177,5
+realhitbench_num,What was the total number of businesses in the “Advertising” sub-sector for all regions in 2009?,2,3,0.4285714285714286,11
+realhitbench_num,"Based on the growth trend from 2005 to 2009, predict the number of businesses in “Sports Activities” for 2011 in the “South East” region.",3,4,0.375,3
+realhitbench_num,"If one more tower adds an ""Outdoor BBQ area,"" what will the new percentage of towers equipped with this amenity be?",4,4,0.19999999999999996,4
+realhitbench_num,Calculate the total number of points accumulated by the top three ranked teams.,3,4,0.0,3
+realhitbench_num,What is the total number of goals scored by all home teams in the table?,2,3,0.6666666666666667,1
+realhitbench_num,What is the difference in maximum resolution (in pixels) between the Canon R5 and the Nikon Z50?,2,4,0.0,4
+realhitbench_num,"How many cameras in the table have a ""Composite"" body material?",2,3,0.5,2
+realhitbench_num,What is the total number of products listed in the Splashback Data sheet?,2,2,0.8571428571428572,1
+realhitbench_num,"Analyze the total goals scored across Saturday matches and Sunday matches. Which day had more goals, and by how many?",4,4,0.5,6
+realhitbench_num,"How many predictors scored exactly 2 points in ""Correct_Team_Score""?",2,3,1.0,20
+realhitbench_num,"What is the difference in ""Correct_Game_Score"" between the predictor with the highest ""Total_Points"" and the predictor with the lowest?",4,3,1.0,4
+realhitbench_num,How many items were delivered between 01 June 2017 and 30 June 2017?,2,3,0.33333333333333337,2
+realhitbench_num,"How many cameras in the table have a ""Full Frame"" sensor size?",2,5,0.33333333333333337,4
+realhitbench_num,"How many models have an incentive on orders greater than 5,000 during the period 1st Dec'16 to 29th Dec'16?",3,14,0.5,10
+realhitbench_num,How many branches need exactly 2 long sleeves?,2,3,0.33333333333333337,1
+realhitbench_num, Identify the team with the highest goals scored in a single match and specify the number of goals.,3,3,0.75,4
+realhitbench_num,On how many days did the employee work more than 8 hours in “Total Hours Worked”?,3,4,0.4,2
+realhitbench_num,How many shifts across the week for GV12 exceeded the “Target” percentage of 61.30%?,3,4,0.33333333333333337,3
+realhitbench_num,How many students scored above 70 in Maths in the year 2012?,3,4,0.8,1
+realhitbench_num,What is the difference between the highest and lowest Maths scores in the year 2012?,4,4,0.75,1
+realhitbench_num,How many ingredients in the Turkey Tacos recipe require a quantity greater than 1?,3,4,0.25,1
+realhitbench_num,How many items have a “Ship Time” less than 50?,3,4,0.0,1
+realhitbench_num,Calculate the total number of participants across all events with a “Time” below 42 minutes.,2,4,0.6666666666666667,1
+realhitbench_num,Calculate the total revenue for “3-month” and “12-month” memberships combined in the second quarter of 2014 (April to June).,2,4,0.5555555555555556,7
+realhitbench_num,Calculate the average revenue per month for “12-month” memberships across 2014.,3,4,0.33333333333333337,13
+realhitbench_num,Calculate the total “Total Hours” worked by the employee during the first week of December 2014.,2,4,0.375,9
+realhitbench_num, Identify the number of days where the employee worked less than 4 hours in total.,3,3,0.33333333333333337,2
+realhitbench_num,How many teams have scored at least 2 goals in the Total Goals For (GF) column?,3,4,0.6,1
+realhitbench_num,How many rows have a “Click Through Vol” value greater than 100?,3,4,0.0,1
+realhitbench_num,How many accounts experienced an “Incline” in revenue for both April and May?,2,2,0.6,2
+realhitbench_num,Calculate the average value of cases pending with CA over the first week of March.,4,13,0.5714285714285715,9
+realhitbench_num,How many players scored over 500 points in any single week across all weeks?,3,3,0.6666666666666667,1
+realhitbench_num,Calculate the total points scored by all players in the week of 2013-10-28.,2,3,0.8,1
+realhitbench_num,Calculate the total amount received via Cheque across all transactions.,2,3,0.4,2
+realhitbench_num,How many regions have SLA24 values greater than 50?,3,9,0.0,5
+realhitbench_num,What is the average points scored by players ranked in the top 5?,3,3,0.6666666666666667,3
+realhitbench_num,"If the points for each player were increased by 10%, what would be the new points total for the top 3 players combined?",2,4,0.6,3
+realhitbench_num,How many incentives have a percentage value greater than 0%?,3,4,0.6666666666666667,1
+realhitbench_num,"How many components in the Compensation section for H1 contribute more than $5,000 individually?",3,4,0.6666666666666667,6
+realhitbench_num,What is the total delivery cost for “Curly Parsley 30's” and “Plain Parsley 60's” combined?,2,3,0.33333333333333337,5
+realhitbench_num,How many matches on 2015/8/8 had a “Draw” odds greater in “My Odds” than in “Betfair Odds”?,3,3,0.1428571428571429,2
+realhitbench_num,How much more expensive per cup equivalent are applesauce than fresh apples?,2,3,0.0,4
+realhitbench_num,How many cups of avocado can be obtained from 5 pounds of fresh avocados based on the size of a cup equivalent?,2,3,0.33333333333333337,3
+realhitbench_num,Count the total number of rows in the table that contain valid numerical data in the 'Average retail price' column.,3,2,0.0,1
+realhitbench_num,How many rows in the table have valid percentage data for 'All food' under the 'Prediction Interval 2024'?,2,3,0.0,4
+realhitbench_num,"What is the total percentage change for 'Meats, poultry, and fish' from 2010 to 2020?",2,4,0.5,1
+realhitbench_num,In which year between 1975 and 1995 did 'All food' have a percentage change greater than 10 but less than 12?,3,3,0.0,3
+realhitbench_num,Identify the year with the highest percentage change for 'Farm-level cattle' between 1975 and 2000.,2,4,0.6,3
+realhitbench_num,What is the total percentage change for 'Unprocessed foodstuffs and feedstuffs' in years when the percentage was above 10 between 2000 and 2020?,3,4,0.4285714285714286,10
+realhitbench_num,Count the number of categories with a negative percent change in the year-to-date average for 2024 compared to 2023.,2,3,0.1428571428571429,17
+realhitbench_num,How much did the number of borrowers (in thousands) under the Direct Loan Program increase from FY2009 to FY2011?,2,3,0.0,3
+realhitbench_num,What is the average population of 'Mouse' across all recorded years?,2,4,0.6666666666666667,25
+realhitbench_num,How many species had a population of less than 20 by the year 2000?,3,4,1.0,13
+realhitbench_num,"What is the total number of procedures for 'Mouse', 'Rat' and 'Guinea pig' combined under 'Applied studies - human medicine or dentistry'?",2,3,0.1333333333333333,4
+realhitbench_num,What is the total number of animals acquired from non-designated sources for Mouse and Rat combined?,2,3,0.0,3
+realhitbench_num,"How many species in the table have animals acquired from sources within the EU exceeding 1,000?",2,3,0.0,2
+realhitbench_num,What is the total debits for client ABDEND1 from the opening date to the end date?,2,3,0.5,2
+realhitbench_num,What is the total credits for client ABDEND10 from the opening date to the end date?,2,3,0.5,2
+realhitbench_num,How many transactions were made for client ABDEND1 during the period?,2,3,0.75,1
+realhitbench_num,How many items have a balance greater than 1000?,3,2,0.5,1
+realhitbench_num,How many employees have travel expenses exceeding $5000?,3,3,1.0,1
+realhitbench_num,How many employees are there in total who have reported travel expenses?,2,2,1.0,1
+realhitbench_num,How many employees have travel expenses not exceeding $1000?,3,3,1.0,1
+realhitbench_num,What is the average analyte concentration of FTC in the samples? (Accurate to two decimal places),4,3,0.25,1
+realhitbench_num,What is the total LLOQ of TFV in the samples? (Accurate to two decimal places),2,2,0.0,1
+realhitbench_num,How many 'x' are listed in 3TC regimens?,2,3,0.33333333333333337,1
+realhitbench_num,How many samples tested positive for HIV-DNA in the first round?,2,2,0.25,1
+realhitbench_num,How many samples tested negative for HBV-RNAscope?,2,2,0.5,1
+realhitbench_num,How many samples were positive for both HIV-DNA first round and second round?,2,2,0.1428571428571429,2
+realhitbench_num,How many samples tested negative for both HIV-vDNA rounds but positive for HBV-RNAscope?,2,2,0.5,3
+realhitbench_num,What is the total number of stations monitored in 2018?,2,1,0.0,1
+realhitbench_num,How many stations showed a decline in habitat quality from 1988 to 2008?,2,2,0.0,2
+realhitbench_num,How many benthic habitat types were identified in the dataset?,2,2,0.0,3
+realhitbench_num,How many distinct Novel Heterozygous are mentioned in the dataset?,2,3,0.0,2
+realhitbench_num,How many different positions are mentioned in the dataset for chromosome 10?,2,4,0.5,2
+realhitbench_num,How many distinct Compound Heterozygotes are mentioned in the dataset?,2,3,0.0,5
+realhitbench_num,How many different positions are mentioned in the dataset for chromosome 15?,2,4,0.5,3
+realhitbench_num,How many categories does the Household Age Distribution include?,2,3,0.25,5
+realhitbench_num,How many different types of effectiveness measures for health facility mitigation measures are there in the table?,2,2,0.0,4
+realhitbench_num,What is the total number of maternal lives saved through hypertensive disorder case management over the three years?,2,3,0.375,4
+realhitbench_num,How many types of Effectiveness of Health Facility Mitigation Measures are listed?,2,3,0.0,2
+realhitbench_num,How many types of Infection Fatality Rates (IFRs) are listed?,2,3,0.75,1
+realhitbench_num,What is the difference in the number of pregnancies between 2019 WITHOUT Mitigation and 2019 WITH Mitigations?,2,3,0.2222222222222222,3
+realhitbench_num,What is the total score for WP ID 99 in the CAI group?,2,2,0.33333333333333337,12
+realhitbench_num,What is the difference in the total scores between the highest and lowest scoring participants in the CAI group?,4,3,0.8,1
+realhitbench_num,What is the average score for the CAI condition in '14'?,4,3,0.4,2
+realhitbench_num,How many participants in the Traditional condition scored exactly 0 in '1'?,3,3,0.5,2
+realhitbench_num,How many participants in Teaching Group 4 have a total score greater than 40?,3,2,0.5,2
+realhitbench_num,How many WP IDs have a total score greater than 70?,3,2,1.0,0
+realhitbench_num,How many WP IDs have a total score lower than 10?,3,2,0.5,3
+realhitbench_num,What is the average value in the 'Novel' column for the group with TM? (Accurate to two decimal places),5,3,0.0,1
+realhitbench_num,How many entries in the 'Familiar' column for the group with TM are greater than 100?,3,3,0.0,1
+realhitbench_num,What is the difference between the maximum and minimum values in the 'Novel' column for the group without TM?,4,3,0.0,1
+realhitbench_num,What is the average value in the 'Novel' column for the group p75Atoh1-Cre? (Accurate to two decimal places),4,3,0.0,1
+realhitbench_num,How many entries in the 'Familiar' column for the group p75Atoh1-Cre are less than 100?,3,3,0.0,1
+realhitbench_num,What is the difference between the maximum and minimum values in the 'Novel' column for the group p75FL?,4,3,0.0,1
+realhitbench_num,"When Vv=0.15, what is the mean value of X? (Accurate to two decimal places)",4,3,0.4,1
+realhitbench_num,What is the difference between the maximum value of X for Vv=0.1 and the maximum value of X for Vv=0.05? (Accurate to two decimal places),3,3,0.0,2
+realhitbench_num,What is the difference between the maximum and minimum capsule size for Vv=0.15? (Accurate to two decimal places),4,3,0.0,1
+realhitbench_num,"When Vv=0.15, what is the mean value of Y? (Accurate to two decimal places)",4,3,0.5,1
+realhitbench_num,What is the difference between the maximum value of Y for Vv=0.1 and the maximum value of Y for Vv=0.05? (Accurate to two decimal places),3,3,0.0,2
+realhitbench_num,How many animals in the WT Stress group treated with Fluoxetine have a FGF2 Fold Change greater than 1?,3,2,0.5,1
+realhitbench_num,What is the total number of deaths due to musculoskeletal disorders in all countries in 1986 and 2011?,2,3,0.33333333333333337,3
+realhitbench_num,How many countries in Asia experienced a decrease in the number of deaths due to musculoskeletal disorders from 1986 to 2011?,3,3,0.4,4
+realhitbench_num,What is the total sum of item3 for Neutral luminal over all days?,2,2,0.0,5
+realhitbench_num,What is the average value of item3 for Brca1;Trp53 - luminal over the recorded days?,3,2,0.0,5
+realhitbench_num,How many days show a cumulative probability of 0 for the largest clone size?,3,3,0.33333333333333337,8
+realhitbench_num,How many days show a cumulative probability of 0 at the largest scaled clone size?,3,3,0.16666666666666663,1
+realhitbench_num,How many entries have a variance greater than 2 for basal cells?,3,3,0.5,1
+realhitbench_num,How many entries have a average greater than 2 for basal cells?,4,3,0.33333333333333337,1
+realhitbench_num,What is the average interductal segment length for Mouse #1 at 3 months of age? (Accurate to two decimal places),4,2,0.0,2
+realhitbench_num,What is the difference in the maximum interductal segment length between Mouse #1 and Mouse #3 at 3 months?,3,2,0.09999999999999998,2
+realhitbench_num,What is the average tertiary branch length for Mouse #1 at 3 months of age?,5,2,0.11111111111111116,2
+realhitbench_num,What is the difference in the maximum tertiary branch length between Mouse #1 and Mouse #3 at 3 months?,3,2,0.09999999999999998,3
+realhitbench_num,What is the average tertiary branch complexity for Mouse #1 at 3 months of age? (Accurate to two decimal places),5,2,0.11111111111111116,2
+realhitbench_num,What is the difference in the maximum tertiary branch complexity between Mouse #1 and Mouse #3 at 3 months?,3,2,0.09999999999999998,3
+realhitbench_num,What is the total number of clones for both luminal and basal types across all mice at 14 days?,2,2,0.33333333333333337,2
+realhitbench_num,How many more luminal type clones are there compared to basal type clones in mouse 4 at 64 days?,2,2,0.4,3
+realhitbench_num,By what factor does the total number of basal clones increase from 64 to 225 days? (Accurate to two decimal places),3,2,0.2222222222222222,3
+realhitbench_num,What is the average number of total cells across all glands for the basal type after tamoxifen treatment? (Accurate to two decimal places),5,3,0.4444444444444444,3
+realhitbench_num,What is the difference in labelling density between the most and least dense glands in the TAT-Cre group? (Accurate to two decimal places),4,2,0.4,7
+realhitbench_num,What is the average size of luminal confetti clones during estrus? (Accurate to two decimal places),3,2,0.6666666666666667,1
+realhitbench_num,How many basal clone sizes are greater than 50 during diestrus?,3,2,0.5,1
+realhitbench_num,What is the total number of clones for all luminal and basal types across all time points?,2,2,0.4,2
+realhitbench_num,How many times does the Ki67/CC3 fraction exceed 5.0 in the TYPE1 column?,3,2,0.6666666666666667,2
+realhitbench_num,How many times was a clone size of 1 recorded for the luminal cell type during diestrus?,2,1,0.6666666666666667,1
+realhitbench_num,What is the average clone size for the luminal cell type during diestrus? (Accurate to two decimal places),5,2,0.6666666666666667,1
+realhitbench_num,How many mice have zero transformed basal clones in both ducts and side branches?,2,2,0.7142857142857143,8
+realhitbench_num,What is the average cumulative probability for green category? (Accurate to two decimal places),2,2,0.25,1
+realhitbench_num,What is the sum cumulative probability for red category? (Accurate to two decimal places),2,2,0.25,1
+realhitbench_num,"How much does the average condition weight for males increase when their body length goes from 2.15m to 2.45m, after a 120 Day Fast?",3,2,0.2727272727272727,3
+realhitbench_num,"For males, what is the difference between the highest and lowest extreme values at 215 cm?",4,2,0.4,6
+realhitbench_num,How many scenarios have a non-empty average for males at 245 cm?,3,2,0.4,6
+realhitbench_num,"For Pr2/Oct1, what is the difference in mean fold change between Set2 and Set4? (Accurate to two decimal places)",3,2,0.0,3
+realhitbench_num,What is the average Runx1 intensity/area ratio for uninfected DC-SAG sets across all experiments? (Accurate to two decimal places),2,3,0.5,7
+realhitbench_num,What is the average Intensity/Area for Runx1 in 'Uninf' sets across all experiments?,2,2,0.25,2
+realhitbench_num,What is the total Area for b-actin in Experiment 1?,2,2,0.25,1
+realhitbench_num,How many times greater is the average Intensity/Area of Runx3 compared to Runx1 in Experiment 3?,3,3,0.19999999999999996,2
+realhitbench_num,"What is the difference in Intensity/Area for Pr1 between Set1 (Uninf, DC- SAG) in Expt-1 and Expt-2? (Accurate to two decimal places)",2,3,0.125,2
+realhitbench_num, What is the average Intensity/Area for October-01 across all sets in Expt-1?,4,3,0.33333333333333337,1
+realhitbench_num,What is the difference in Runx3 Intensity between Set1 and Set4 in Experiment 2?,2,2,0.16666666666666663,3
+realhitbench_num,"If imports in Q2 2020 increased by 10%, what would be the new total imports for 2020 all year?",2,3,0.0,6
+realhitbench_num,How many quarters in 2020 had a total disappearance exceeding 23000 million pounds?,2,3,0.33333333333333337,5
+realhitbench_num,Calculate the total disappearance of poultry for Q1 and Q2 of 2020.,2,3,0.19999999999999996,3
+realhitbench_num,Calculate the difference in imports between Q1 and Q3 of 2020.,2,3,0.0,3
+realhitbench_num,What is the difference in energy content (in Kcal) between 100g raw and 100g cooked veal cutlets?,2,4,0.5454545454545455,4
+realhitbench_num,How many nutrients have a value of 0 for both raw and cooked veal cutlets?,2,3,0.7142857142857143,3
+realhitbench_num,"If the calorie content of 100g Lean Only increases by 10%, what would be its new value?",1,4,0.19999999999999996,2
+realhitbench_num,How many years did the total recipients all ages exceeding 9 million?,2,4,0.4,1
+realhitbench_num,"Calculate the total number of children aged 6–12 and 13–17 receiving SSI payments for “Endocrine, nutritional, and metabolic diseases.”",2,4,0.41666666666666663,3
+realhitbench_num,"What is the total number of children receiving SSI payments for “Congenital anomalies” and “Endocrine, nutritional, and metabolic diseases” across all age groups?",2,4,0.33333333333333337,3
+realhitbench_num,Calculate the difference in average CO inlet values between Black Pellets with a blend of 20 and Charred Biomass with a blend of 40.,3,3,0.0,3
+realhitbench_num,What is the total nominal expenditure per household for “FAH” and “FAFH” combined in 1998?,2,3,0.1428571428571429,3
+realhitbench_num,What was the total expenditure by households and government on food at home in constant dollars for the year 1997?,2,4,0.36363636363636365,3
+realhitbench_num,How many food items had a sodium mean of at least 1000 mg/100g in 2013?,3,3,0.5,2
+realhitbench_num,"Calculate the difference between 2013 and 2014 of mean Sodium in “Capers, canned”.",2,5,0.6666666666666667,3
+realhitbench_num,Calculate the difference in total cropland between the Corn Belt and Southern Plains regions.,2,5,0.0,3
+realhitbench_num,What is the difference in the value of Support Services between 2000 and 2010?,2,5,0.0,3
+realhitbench_num,What is the percentage difference between urban and rural assistance groups for a group size of 2?,2,4,0.0,4
+realhitbench_num,Compare the unemployment rates for females aged 15-24 years in February 2015 and February 2016. What was the change in the unemployment rate from February 2015 to February 2016 for this group?,2,4,1.0,0
+realhitbench_num,How much more time was planned for the “Administration” activity in 2005 compared to the “Marketing” activity in the same year?,2,4,0.0,3
+realhitbench_num,"If the “Education” activity had a 10% increase in actual hours worked in 2006, what would be the new actual hours?",2,4,0.6,2
+realhitbench_num,How many fiscal years had an actual overpayment rate above 0.30%？,3,3,0.4,12
+realhitbench_num,"How many regions have more than 1,000 schools reporting Algebra I data?",3,3,0.4,1
+realhitbench_num,"What is the total number of schools reporting Physics courses in New York, Texas, and Florida combined?",2,4,0.0,4
+realhitbench_num,How many male workers aged 25 to 34 are earning at the federal minimum wage? (Final answer should be an integer.),1,4,0.2222222222222222,2
+realhitbench_num,Calculate the total number of workers at or below the minimum wage among women aged 25 and older. (Final answer should be an integer.),2,4,0.0,5
+realhitbench_num,In which year did the median earnings for women aged 25 to 34 years first exceed $700? (Final answer should be a specific year.),2,3,0.6666666666666667,28
+realhitbench_num,How many years between 1990 and 2016 did the median earnings for men aged 65 years and older exceed $800? (Final answer should be an integer.),2,3,0.33333333333333337,3
+realhitbench_num,What was the percentage increase in median earnings for men aged 16 to 19 years from 1990 to 2016? (Final answer should be rounded to two decimal places.),3,7,0.41666666666666663,3
+realhitbench_num,What is the difference in median weekly earnings between men and women in California in 2016? (Final answer should be an integer.),2,2,0.1428571428571429,3
+realhitbench_num,How many states had women's earnings as a percentage of men's earnings above 80% in 2016? (Final answer should be an integer.),2,2,0.09999999999999998,52
+realhitbench_num,What is the percentage of female workers aged 25 to 34 years earning $15.00 or more per hour compared to the total number of female workers aged 25 to 34 years? (Final answer should be a decimal with two decimal places.),3,3,0.2222222222222222,4
+realhitbench_num,How many more male workers aged 20 to 44 years earn $12.00 to $14.99 per hour than female workers in the same age group? (Final answer should be an integer.),3,3,0.2666666666666667,7
+realhitbench_num,What is the difference in the number of male and female workers earning $6.00 to $7.99 per hour across all age groups? (Final answer should be an integer.),3,3,0.36363636363636365,3
+realhitbench_num,What is the difference in median weekly earnings between married women with children under 6 years old and married women with no children under 18 years old? (Final answer should be an integer.),2,3,0.0,3
+realhitbench_num,How many more men with no children under 18 years old are there compared to women with no children under 18 years old? (Final answer should be an integer.),2,3,0.0,3
+realhitbench_num,What is the total number of women who are either married with children under 18 years old or have no children under 18 years old? (Final answer should be an integer.),2,3,0.0,3
+realhitbench_num,What is the average percentage of individuals with a degree or equivalent among all religions in 2012? (Final answer should be a decimal with two decimal places.),2,2,0.5,2
+realhitbench_num,How many religions showed an increase in the percentage of individuals with a degree or equivalent from 2012 to 2018? (Final answer should be an integer.),3,3,0.4545454545454546,9
+realhitbench_num,How many religious affiliations have an odds ratio below 1 for employment in the 'All' column? (Final answer should be an integer.),2,3,0.7142857142857143,9
+realhitbench_num,What is the difference between the odds ratios of Muslims and Buddhists for employment in the 'Male' column? (Final answer should be a decimal with two decimal places.),2,3,0.8333333333333334,3
+realhitbench_num,"If the odds ratio for employment of Sikhs in the 'Male' column is 0.681, and the odds ratio for employment of Hindus in the 'Male' column is 1.085, what is the ratio of these two odds ratios? (Final answer should be a decimal with two decimal places.)",2,2,0.0,3
+realhitbench_num,How many countries in the table show data for the time period from 2023 December to 2024 December?,2,3,0.7142857142857143,2
+realhitbench_num,What is the difference in hourly earnings between the United States and the United Kingdom for October 2024?,2,3,0.125,3
+realhitbench_num,What is the average “NHS (Health)” expenditure for the age group 16-24 across the years 2007-08 to 2012-13?,2,3,0.5,5
+realhitbench_num,What is the total export value of services for Bahrain in 2014 and 2015 combined? ,2,3,0.16666666666666663,3
+realhitbench_num,"Based on the data, what is the total number of decisions (adverse, non-adverse, reserved, and cancelled) recorded in “GREAT BRITAIN”?",2,3,0.0,5
+realhitbench_num,What is the proportion of “Reserved decisions” compared to the total number of decisions in “Central England”?,2,3,0.125,3
+realhitbench_num,How many different reasons for “Adverse decisions” are listed in the table for the period between October 2012 and September 2013?,1,3,0.8571428571428572,5
+realhitbench_num,"Based on the data, what is the average number of “Adverse decisions” per month for the year 2012?",3,3,0.75,4
+realhitbench_num,"Based on the number of orders placed each day, what is the average number of orders placed on weekdays (Monday to Friday)?",3,11,0.4285714285714286,6
+realhitbench_num,What is the difference in total cost between “Valley metal” and “Ice & water shield”?,3,5,0.125,3
+realhitbench_num,Compare the Q2 actual values for all years and determine how many years exceeded 300.,3,4,0.5,2
+realhitbench_num,"For June 2014, calculate the difference between the Q3 actual value and the Q3 budget, then rank its magnitude compared to other years.",2,4,0.1428571428571429,3
+realhitbench_num,"Calculate the number of ""NORMAL"" ratings Fitch gave in January across all available years.",2,4,0.8,6
+realhitbench_num,"How many companies received a ""GOOD"" rating from any agency in 2013?",2,4,0.5,3
+realhitbench_num,How many skills in the FA Specific Skills and Knowledge category have a score of 3?,2,4,0.0,1
+realhitbench_num,How many measurements were taken for each condition?,2,3,0.5,9
+realhitbench_num,"For the 'control' group, what is the difference between the highest and lowest 'base' measurement?",4,3,0.0,10
+realhitbench_num,How much lower is the average 't-BOOH' measurement after HD compared to before HD?,3,3,0.25,3
+realhitbench_num,How many countries in Asia had more than two trend periods identified for women?,2,3,0.19999999999999996,13
+realhitbench_num,What was the actual change in musculoskeletal disorders deaths in Japan from 1986 to 2011?,2,3,0.33333333333333337,3
+realhitbench_num,How many countries in Eastern Europe showed a decrease in musculoskeletal disorders deaths from 1986 to 2011?,2,3,0.25,10
+realhitbench_num,How many markers show a 'B' allele for MBI9170 on Chr.3?,2,3,0.4,2
+realhitbench_num,How many markers are there on Chr.7 with an 'A' allele for MBI9749?,2,3,0.5,1
+realhitbench_num,How many markers are listed under Chr.3?,2,3,0.5,0
+realhitbench_num,How much did the lead concentration increase in BALGHAT from March to April 2023?,2,3,0.1428571428571429,3
+realhitbench_num,What is the average CT value for Experiment 1 of CD40 in Set1? (Accurate to two decimal places),2,3,0.33333333333333337,4
+realhitbench_num,What is the difference in mean liver weight between Set4 and Set5? (Accurate to two decimal places),3,3,0.4,3
+realhitbench_num,What is the difference in mean LDU values between Set1 and Set2 for Infected mice treated with PBS via DCs? (Accurate to two decimal places),3,3,0.2222222222222222,3
+realhitbench_num,What is the difference in mean LDU between Set1 and Set2? (Accurate to two decimal places),3,3,0.0,3
+realhitbench_num,What is the difference in the Intensity of Pr2 between LPS 24h and LPS 0h?,2,3,0.33333333333333337,1
+realhitbench_num,What is the average Intensity/area for Pr1 across all sets? (Accurate to two decimal places),4,3,0.33333333333333337,8
+realhitbench_num,What is the difference in the Intensity of Pr2 between LPS 0h and LPS 24h?,2,3,0.0,3
+realhitbench_num,How many more total DCs does Field_10 have compared to Field_1 in Experiment 1?,3,3,0.0,5
+realhitbench_num,How many more total DCs does Field_4 have compared to Field_1 in Replicate 1 of Experiment 1?,3,3,0.0,3
+realhitbench_num,How many more total DCs does Field_4 have compared to Field_1 in Replicate 2 of Experiment 1?,3,3,0.0,3

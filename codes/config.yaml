@@ -1,0 +1,25 @@
+# Relative to codes/<component>, where the README commands are executed.
+base_folder: "../../datasets"
+out_folder: "../../result"
+
+datasets:
+  test_dataset: &dataset_defaults
+    qa_file: "data/single_tab_qa.jsonl"
+    table_dir: "data/table"
+    table_meta_dir: "our/table_processed/table_meta"
+    table_graph_dir: "our/table_processed/graph"
+    result_dir: "our/test_result"
+    diamb_dir: "our/test_diambq"
+  hitab_num:
+    <<: *dataset_defaults
+  multihiertt_num:
+    <<: *dataset_defaults
+  realhitbench_num:
+    <<: *dataset_defaults
+
+llm_routing:
+  datasets:
+    test_dataset:
+      train_path: "input_data/test_train.json"
+      eval_path: "input_data/test_eval.json"
+      out_json: "our/llm_router_output/llm_selection.json"
